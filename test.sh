@@ -6,3 +6,5 @@ echo "hello its next step checking branch"
 
 echo "git merge example"
 
+
+echo "git rebase example"
